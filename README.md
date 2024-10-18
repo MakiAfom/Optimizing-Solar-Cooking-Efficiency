@@ -1,4 +1,4 @@
-# Optimizing Solar Cooking Efficiency
+# Optimizing Solar Cooking Efficiency.
 The Solar Mitad Initiative: Empowering Ethiopian, Eritrean Homes" My initiative is to revolutionize Ethiopian Eritrean households by creating a sustainable and efficient cooking solution."
 Title of project:
 "Elevating Baking Efficiency: Embracing Data-Driven Solutions"
