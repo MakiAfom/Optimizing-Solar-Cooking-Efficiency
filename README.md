@@ -41,3 +41,14 @@ Example:
 I’m always eager to collaborate on innovative data-driven projects. Feel free to connect with me for feedback, mentoring, or new opportunities to push my limits in data science and sustainable solutions.
 
 
+Data Sets & Models:
+
+I gathered temperature data, solar radiation data, and material heat absorption data to model the performance. I used regression models and simulations to optimize performance across different environmental conditions.
+
+Predictions & Conclusion:
+
+After simulations and real-world testing, I concluded that a solar cooking system can reduce wood consumption by 80% in targeted regions. The most efficient design used reflective surfaces and heat-absorbing materials to maintain consistent cooking temperatures.
+
+
+
+
